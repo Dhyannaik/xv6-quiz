@@ -117,3 +117,38 @@ Welcome to the XV Quiz for CSL 3030 - Operating Systems!
 
 ## Answers
 Please write your answers here
+
+1. Answer: b. A Unix-like operating system
+
+2. Answer: c. BSD
+
+3. Answer: d. simple
+
+4. Answer: b. As interrupts
+
+5. Answer: a. 128
+
+6. Answer: c. Sh
+
+7. Answer: a. Round-robin scheduling
+
+8. Answer: a. Paging
+
+9. Answer: b. Using hardware interrupts
+
+10. Answer: b. No
+
+Bonus Question:
+Who developed XV6?
+Answer: c. MIT
+
+12. Briefly explain the different states a process can be in within the XV6 operating system.
+Answer. 
+
+13. Describe the structure of the file system in XV6. Include the key components and their roles.
+Answer.
+
+
+
+
+
